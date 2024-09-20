@@ -17,7 +17,7 @@ Linux has become the important part in the software industry as it give access t
 An operating system is built using the Linux kernel is called Linux distribution.It is the collection of software, libraries, and tools.
 There are multiple Linux Distributions like Ubuntu, Debian, Fedora etc.
 
-# Linux Distributions
+# Basic Linux Commands
 
 - **ls** - Lists files and directories in the current directory.
 - **mkdir** - Creates a new directory.
